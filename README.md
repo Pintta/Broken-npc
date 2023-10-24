@@ -1,2 +1,2 @@
 # qb-npc
-Clear all NPCs fivem server, See Ya!
+Clear all NPCs in fivem server, See Ya!
