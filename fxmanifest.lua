@@ -1,0 +1,6 @@
+fx_version 'bodacious'
+lua54 'yes'
+game 'gta5'
+file 'popcycle.dat'
+data_file 'POPSCHED_FILE' 'popcycle.dat'
+client_script 'client.lua'
