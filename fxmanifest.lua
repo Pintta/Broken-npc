@@ -1,4 +1,4 @@
-fx_version 'bodacious'
+fx_version 'cerulean'
 lua54 'yes'
 game 'gta5'
 file 'popcycle.dat'
