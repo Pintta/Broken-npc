@@ -1,6 +1,6 @@
 fx_version 'cerulean'
-lua54 'yes'
 game 'gta5'
+lua54 'yes'
 file 'popcycle.dat'
 data_file 'POPSCHED_FILE' 'popcycle.dat'
 client_script 'pintta.lua'
